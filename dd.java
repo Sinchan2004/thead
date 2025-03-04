@@ -9,4 +9,5 @@ public class dd {
 
         // Display the result
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
-    }
+    }  // Closing brace for the main method
+}
